@@ -1,4 +1,4 @@
-## Hi there, I am [adejumoridwan](www.adejumoridwan.com/about)👋
+## Hi there, I am [adejumoridwan](https://www.adejumoridwan.com/about/about-me/)👋
 
 #### A Data Analytics Consultant and also a Statistician
 
