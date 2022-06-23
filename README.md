@@ -12,6 +12,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adejumoridwan&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
+## Daily Dev Card
+![](https://api.daily.dev/devcards/5bfd970fb1ea4d2daa622f64a7c9d86f.png?r=ul8)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
