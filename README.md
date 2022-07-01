@@ -1,9 +1,7 @@
 # 💫 About Me:
 ### Just a Statistician with Software Engineering skills😎
 
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+# 🤝🏻 Connect With Me
 <p align="center">
 <a href="https://www.adejumoridwan.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adejumoridwan.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ridwan-adejumo-suleiman-03461a178/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adejumo%20Ridwan%20Suleiman-blue?style=flat-square&logo=linkedin"></a>
