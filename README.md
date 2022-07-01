@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Data Analytic Consultant
+### Just a Statistician with Software Engineering skills😎
 
 
 # 💻 Tech Stack:
