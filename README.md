@@ -1,6 +1,5 @@
 ## 💫 About Me:
 😊 Freelance Statistical/Data Analyst  
-🎓 Masters student of Statistics  
 👏 Content Creator  
 
 ## 🤝🏻 Connect With Me
