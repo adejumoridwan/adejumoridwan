@@ -1,7 +1,3 @@
-## 📉Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adejumoridwan&theme=dracula&hide_border=true)
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adejumoridwan&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adejumoridwan&theme=monokai&hide_border=true)<br/>
